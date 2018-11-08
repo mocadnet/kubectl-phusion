@@ -1,6 +1,6 @@
 FROM phusion/baseimage:latest
 
-MAINTAINER Eduardo Pires <mocadnet@gmail.com>
+MAINTAINER Eduardo Pires
 
 # Use baseimage-docker's init system.
 CMD ["/sbin/my_init"]
